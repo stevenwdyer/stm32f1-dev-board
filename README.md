@@ -14,7 +14,7 @@ This board is an STM32F103-based development platform, designed for prototyping 
 
 * User interface, via a reset button and a power indicator LED.
 
-* A standardized form factor, with a 19x52mm footprint and 2.54mm pitch headers, enabling compatibility with standard breadboards for rapid prototyping.
+* A standardized form factor, with a 19x50mm footprint and 2.54mm pitch headers, enabling compatibility with standard breadboards for rapid prototyping.
 
 ### Images ###
 
